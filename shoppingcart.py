@@ -336,7 +336,6 @@ def deladmin():
 
 
 print("\t\t\t****Welcome to e-shopping mart****\t\t\t")
-print("WELCOME!!!!")
 
 grocessaryitems={
     "pen" : 50,
